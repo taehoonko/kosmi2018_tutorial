@@ -15,4 +15,3 @@ Office of Hospital Information, Seoul National University Hospital
 - Named-entity recognition using bidirectional LSTM-CNNs
 
 We woud like to thank Dr.Jong-soo Han (Department of Family Medicine, Seoul National University Bundang Hospital) (<flindt@snubh.org>) for conducting collaborative research. This work was supported by [Amazon Web Service](<https://aws.amazon.com/>).
-]
