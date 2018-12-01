@@ -14,4 +14,4 @@ Office of Hospital Information, Seoul National University Hospital
 - Document classification using convolutional neural network
 - Named-entity recognition using bidirectional LSTM-CNNs
 
-We woud like to thank Dr.Jong-soo Han (Department of Family Medicine, Seoul National University Bundang Hospital) (<flindt@snubh.org>) for conducting collaborative research. Also, we are grateful to Hyunjoong Kim (<soy.lovit@gmail.com>, [github](https://github.com/lovit)) for giving a lot of inspiration for natural language processing and text mining. This work was supported by [Amazon Web Service](<https://aws.amazon.com/>).
+We woud like to thank Dr.Jong-soo Han (Department of Family Medicine, Seoul National University Bundang Hospital) (<flindt@snubh.org>) for conducting collaborative research. Also, we are grateful to Hyunjoong Kim (<soy.lovit@gmail.com>, [github](https://github.com/lovit)) for giving a lot of inspiration for natural language processing and text mining. This work was supported by [Amazon Web Services](<https://aws.amazon.com/>).
